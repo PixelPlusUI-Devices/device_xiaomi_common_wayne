@@ -33,7 +33,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.dirac.acs.ignore_error=1 \
     persist.dirac.acs.storeSettings=1 \
     persist.vendor.audio.fluence.speaker=true \
-    persist.audio.fluence.voicecomm=true \
     persist.vendor.audio.fluence.voicecall=true \
     persist.vendor.audio.fluence.voicerec=true \
     persist.vendor.audio.hifi.int_codec=true \
